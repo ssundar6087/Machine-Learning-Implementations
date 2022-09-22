@@ -1,5 +1,5 @@
 # Machine-Learning-Implementations
-A repository containing sample implementations of various machine learning algorithms
+A repository containing sample implementations of various machine learning algorithms along with walkthrough videos for each one.
 ## Algorithm List:
 
 ### [1. K-means clustering](https://github.com/ssundar6087/Machine-Learning-Implementations/blob/main/01_K_Means_from_Scratch.ipynb)
